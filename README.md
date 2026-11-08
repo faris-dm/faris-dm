@@ -3,48 +3,115 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faris%20Naser&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20TypeScript&descAlignY=58&descSize=18" alt="Faris Naser"/>
 
 <a href="https://github.com/faris-dm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=I+build+React+frontends+in+TypeScript;I+write+REST+APIs+with+Node+%26+Express;I+make+Telegram+bots" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+React+frontends+in+TypeScript;I+write+REST+APIs+with+Node+%26+Express;I+design+databases+with+PostgreSQL;I+make+Telegram+bots;Currently+learning+GraphQL+%26+Prisma" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<a href="https://t.me/solonaser"><img src="https://img.shields.io/badge/Telegram-@solonaser-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/faris-dm"><img src="https://img.shields.io/badge/GitHub-faris--dm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
 
 </div>
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 About Me
 
-```bash
-faris@github:~$ whoami
-Faris Naser
+```ts
+const faris = {
+  name: "Faris Naser",
+  role: "Full-Stack Developer",
 
-faris@github:~$ cat stack.txt
-Frontend  -> React, TypeScript, Tailwind
-Backend   -> Node.js, Express, PostgreSQL
-Extras    -> REST APIs, Auth, Telegram Bots
+  languages: ["JavaScript", "TypeScript"],
+  frontend:  ["React", "Tailwind CSS", "Bootstrap"],
+  backend:   ["Node.js", "Express", "REST APIs", "JWT Auth"],
+  database:  ["PostgreSQL"],
+  tools:     ["Git", "GitHub", "Postman", "Telegram Bot API"],
 
-faris@github:~$ cat contact.txt
-telegram  -> t.me/solonaser
+  currentlyLearning: [
+    "Prisma ORM", "GraphQL", "OAuth 2.0",
+    "Socket.IO", "WebRTC / LiveKit", "AWS S3", "Next.js",
+  ],
+
+  currentlyBuilding: "A marketplace where skilled people sell & share their skills",
+
+  howILearn: "Docs, videos, and shipping real projects",
+  reachMe:   "https://t.me/solonaser",
+};
 ```
 
 ---
 
-### ⚡ What I Can Do
+### ⚡ What I Do
 
-| | |
-|---|---|
-| ⚛️ **Frontend apps** | React + TypeScript apps with clean, responsive UI (Tailwind, Bootstrap) |
-| 🔌 **REST APIs** | Design and build APIs with Node.js and Express |
-| 🔐 **Authentication** | Login systems, protected routes, token-based auth |
-| 🗄️ **Databases** | Schema design and queries with PostgreSQL |
-| 🤖 **Telegram bots** | Bots built on the Telegram Bot API |
-| 🤝 **Team workflow** | Git, GitHub, branches, pull requests, code reviews |
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend"/><br/>
+      Responsive React apps with clean UI using Tailwind and Bootstrap.
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend"/><br/>
+      REST APIs with Node.js and Express, structured and tested in Postman.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="Auth"/><br/>
+      Login systems, protected routes, and token-based auth with cookies.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Database"/><br/>
+      Schema design, relations, and queries with PostgreSQL.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Bots"/><br/>
+      Telegram bots built on the Bot API.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Teamwork-F05032?style=flat-square&logo=git&logoColor=white" alt="Teamwork"/><br/>
+      Git workflow: branches, pull requests, and code reviews.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,postgres,git,github&perline=12" alt="Tech stack"/>
+**✅ What I use**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,postgres,git,github,postman&perline=12" alt="Core stack"/>
 </p>
+
+**📚 What I'm learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,prisma,graphql,nextjs,aws&perline=12" alt="Learning stack"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+</p>
+
+---
+
+### 🔨 Currently Building
+
+> **Skill Marketplace**: a platform where skilled people can sell and share their skills through files, videos, real-time chat, and live sessions.
+
+| Layer | Plan |
+|---|---|
+| 🎨 Frontend | React + TypeScript + Tailwind |
+| ⚙️ Backend | Node.js + Express + GraphQL |
+| 🗄️ Database | PostgreSQL + Prisma |
+| 🔐 Auth | JWT in httpOnly cookies + Google OAuth |
+| 💬 Real-time | Socket.IO (chat) + LiveKit (audio/video) |
+| 📁 Storage | S3-compatible storage with presigned uploads |
 
 ---
 
@@ -71,10 +138,17 @@ telegram  -> t.me/solonaser
 
 ---
 
-<p align="center">
-  <a href="https://t.me/solonaser"><img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faris-dm&icon=0&color=0" alt="Profile views"/>
-</p>
+### 🤝 Let's Connect
+
+<a href="https://t.me/solonaser"><img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/faris-dm"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=faris-dm&icon=0&color=0" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer"/>
+
+</div>
