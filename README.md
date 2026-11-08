@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faris%20Naser&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%86%92%20Full-Stack&descAlignY=58&descSize=18" alt="Faris Naser"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faris%20Naser&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20TypeScript&descAlignY=58&descSize=18" alt="Faris Naser"/>
 
 <a href="https://github.com/faris-dm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=I+build+fast+responsive+interfaces;I+turn+designs+into+clean+React+code;I'm+now+building+APIs+with+Node+%26+Express" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=I+build+React+frontends+in+TypeScript;I+write+REST+APIs+with+Node+%26+Express;I+make+Telegram+bots" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -12,14 +12,17 @@
 
 ### 👨‍💻 About
 
-```js
-const faris = {
-  role: "Frontend Developer",
-  stack: ["React", "Tailwind", "JavaScript"],
-  learningNow: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-  goal: "Ship complete full-stack apps on my own",
-  contact: "t.me/solonaser",
-};
+```bash
+faris@github:~$ whoami
+Faris Naser
+
+faris@github:~$ cat stack.txt
+Frontend  -> React, TypeScript, Tailwind
+Backend   -> Node.js, Express, PostgreSQL
+Extras    -> REST APIs, Auth, Telegram Bots
+
+faris@github:~$ cat contact.txt
+telegram  -> t.me/solonaser
 ```
 
 ---
@@ -28,19 +31,19 @@ const faris = {
 
 | | |
 |---|---|
-| 🎨 **Build interfaces** | Responsive, clean UIs with HTML, CSS, Tailwind and Bootstrap |
-| ⚛️ **React apps** | Component-based apps with state, routing and API calls |
-| 🔌 **Connect to APIs** | Fetch, display and handle data from REST APIs |
-| 🛠️ **Backend basics** | Building REST APIs with Node.js and Express *(in progress)* |
-| 🗄️ **Databases** | Working with MongoDB and PostgreSQL *(in progress)* |
-| 🌿 **Version control** | Git and GitHub workflow |
+| ⚛️ **Frontend apps** | React + TypeScript apps with clean, responsive UI (Tailwind, Bootstrap) |
+| 🔌 **REST APIs** | Design and build APIs with Node.js and Express |
+| 🔐 **Authentication** | Login systems, protected routes, token-based auth |
+| 🗄️ **Databases** | Schema design and queries with PostgreSQL |
+| 🤖 **Telegram bots** | Bots built on the Telegram Bot API |
+| 🤝 **Team workflow** | Git, GitHub, branches, pull requests, code reviews |
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,postgres,git,github&perline=12" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,postgres,git,github&perline=12" alt="Tech stack"/>
 </p>
 
 ---
@@ -49,9 +52,9 @@ const faris = {
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | React, Tailwind |
-| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | Node, Express |
-| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | HTML, CSS, JS |
+| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | React, TypeScript |
+| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | Node, Express, PostgreSQL |
+| [**Project name**](https://github.com/faris-dm/repo-name) | One short line about what it does | Telegram Bot API |
 
 ---
 
