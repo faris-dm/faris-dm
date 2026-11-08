@@ -27,14 +27,8 @@ const faris = {
   frontend:  ["React", "Tailwind CSS", "Bootstrap"],
   backend:   ["Node.js", "Express", "REST APIs", "JWT Auth"],
   database:  ["PostgreSQL"],
-  tools:     ["Git", "GitHub", "Postman", "Telegram Bot API"],
+  tools:     ["Git", "GitHub", "Postman"],
 
-  currentlyLearning: [
-    "Prisma ORM", "GraphQL", "OAuth 2.0",
-    "Socket.IO", "WebRTC / LiveKit", "AWS S3", "Next.js",
-  ],
-
-  currentlyBuilding: "A marketplace where skilled people sell & share their skills",
 
   howILearn: "Docs, videos, and shipping real projects",
   reachMe:   "https://t.me/solonaser",
@@ -67,10 +61,7 @@ const faris = {
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Bots"/><br/>
-      Telegram bots built on the Bot API.
-    </td>
+   
     <td>
       <img src="https://img.shields.io/badge/-Teamwork-F05032?style=flat-square&logo=git&logoColor=white" alt="Teamwork"/><br/>
       Git workflow: branches, pull requests, and code reviews.
@@ -88,32 +79,8 @@ const faris = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,postgres,git,github,postman&perline=12" alt="Core stack"/>
 </p>
 
-**📚 What I'm learning**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,prisma,graphql,nextjs,aws&perline=12" alt="Learning stack"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-</p>
 
----
-
-### 🔨 Currently Building
-
-> **Skill Marketplace**: a platform where skilled people can sell and share their skills through files, videos, real-time chat, and live sessions.
-
-| Layer | Plan |
-|---|---|
-| 🎨 Frontend | React + TypeScript + Tailwind |
-| ⚙️ Backend | Node.js + Express + GraphQL |
-| 🗄️ Database | PostgreSQL + Prisma |
-| 🔐 Auth | JWT in httpOnly cookies + Google OAuth |
-| 💬 Real-time | Socket.IO (chat) + LiveKit (audio/video) |
-| 📁 Storage | S3-compatible storage with presigned uploads |
-
----
 
 ### 🚀 Projects
 
