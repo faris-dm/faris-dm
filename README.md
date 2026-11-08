@@ -60,13 +60,9 @@ const faris = {
       Schema design, relations, and queries with PostgreSQL.
     </td>
   </tr>
-  <tr>
-   
-    <td>
-      <img src="https://img.shields.io/badge/-Teamwork-F05032?style=flat-square&logo=git&logoColor=white" alt="Teamwork"/><br/>
-      Git workflow: branches, pull requests, and code reviews.
-    </td>
-  </tr>
+  
+
+  
 </table>
 
 ---
